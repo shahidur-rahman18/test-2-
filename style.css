@@ -22,7 +22,7 @@
  }
  body{
     font-family: var(--primaryFont);
-    font-weight: 300;
+    font-weight: 500;
     font-size: 14px;
     background-color: var(--cream);
     display: flex;
