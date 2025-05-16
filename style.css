@@ -22,8 +22,8 @@
  }
  body{
     font-family: var(--primaryFont);
-    font-weight: 500;
-    font-size: 14px;
+    font-weight: 300;
+    font-size: 16px;
     background-color: var(--cream);
     display: flex;
     align-items: center;
